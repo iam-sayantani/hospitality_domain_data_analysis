@@ -119,24 +119,3 @@ Common data sources for hospitality analysis include:
 3. Commit your changes (`git commit -am 'Add new analysis feature'`)
 4. Push to the branch (`git push origin feature/analysis-enhancement`)
 5. Create a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Support
-
-For questions or support, please contact:
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub Issues: [Project Issues Page]
-
-## Acknowledgments
-
-- Hospitality industry professionals who provided domain expertise
-- Open-source community for excellent data analysis tools
-- Hotel management companies for sharing anonymized datasets
-
----
-
-*This analysis framework is designed to provide actionable insights for hospitality professionals to optimize operations, enhance guest satisfaction, and maximize revenue.*
